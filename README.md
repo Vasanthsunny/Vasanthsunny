@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasanthsunny
-- 👀 I’m interested in ... Machine learning, Computer Architecture
+- 👀 I’m interested in ... Machine learning, Cloud Computing
 - 🌱 I’m currently Research Scholar at IIT Guwahati
 - 📫 How to reach me ... mail to r.vasantha@iitg.ac.in
 - I am Qualified for UGC-NET/JRF in Computer Science...
