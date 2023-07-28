@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vasanthsunny
-- 👀 I’m interested in ... Machine learning, Cloud Computing
+- 👀 I’m interested in ... Internet of things, Task scheduling on edge/ cloud servers
 - 🌱 I’m currently Research Scholar at IIT Guwahati
 - 📫 How to reach me ... mail to r.vasantha@iitg.ac.in
-- I am Qualified for UGC-NET/JRF in Computer Science...
+- I have cleared UGC-NET/JRF in Computer Science...
 
 <!---
 Vasanthsunny/Vasanthsunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
