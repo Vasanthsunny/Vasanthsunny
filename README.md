@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasanthsunny
-- 👀 I’m interested in the areas of Internet of things, Sensor as a service, Task scheduling on edge/ cloud servers
+- 👀 I’m interested in the research areas of IoT, Serverless Computing, Task scheduling on Edge/Cloud servers
 - 🌱 I’m currently Research Scholar at IIT Guwahati
 - 📫 How to reach me ... mail to r.vasantha@iitg.ac.in
 - I have cleared UGC-NET/JRF in Computer Science...
